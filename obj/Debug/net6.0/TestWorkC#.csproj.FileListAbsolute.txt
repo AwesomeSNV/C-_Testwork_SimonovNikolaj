@@ -1,0 +1,15 @@
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\bin\Debug\net6.0\TestWorkC#.exe
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\bin\Debug\net6.0\TestWorkC#.deps.json
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\bin\Debug\net6.0\TestWorkC#.runtimeconfig.json
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\bin\Debug\net6.0\TestWorkC#.dll
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\bin\Debug\net6.0\TestWorkC#.pdb
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.csproj.AssemblyReference.cache
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.AssemblyInfoInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.AssemblyInfo.cs
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.csproj.CoreCompileInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.dll
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\refint\TestWorkC#.dll
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.pdb
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\TestWorkC#.genruntimeconfig.cache
+C:\Users\snv\Desktop\ГикБрейнз\TestWorkC#\obj\Debug\net6.0\ref\TestWorkC#.dll
